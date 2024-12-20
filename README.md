@@ -8,13 +8,9 @@ Il progetto Padel Blog è un'applicazione web completa che funge da hub centrale
 
 Il progetto utilizza un database relazionale con i seguenti componenti chiave:
 
-1. **Utenti**: Archivia i dettagli di registrazione e autenticazione degli utenti.
-2. **Racchette**: Mantiene un database dei modelli di racchette da padel, incluse le loro specifiche, tecnologie e stili di gioco.
-3. **Contatti**: Gestisce le richieste e i feedback degli utenti attraverso un modulo di contatto.
-4. **Gestione dei Contenuti**: Consente la creazione, l'archiviazione e il recupero di articoli di blog, tutorial e altri contenuti correlati al padel.
-5. **Gestione dei Job**: Facilita il gestione di attività in background, come le notifiche email e l'elaborazione dei dati.
+1. **Racchette**: Mantiene un database dei modelli di racchette da padel, incluse le loro specifiche, tecnologie e stili di gioco.
 
-Questa struttura del database permette all'applicazione di gestire in modo efficiente le informazioni degli utenti, i dettagli dei prodotti, le interazioni degli utenti e la creazione di contenuti, garantendo un'esperienza utente fluida.
+Questa struttura del database permette all'applicazione di gestire in modo efficiente le informazioni dei dettagli dei prodotti, garantendo un'esperienza utente fluida.
 
 
 
